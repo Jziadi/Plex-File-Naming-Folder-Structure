@@ -5,15 +5,15 @@
 ##### <span style="color:darkred">Table of Contents</span>
 
 
-[Recognized Tags](#tags) 
-[Supplying Own Artwork](#personal_artwork)
-[Multi Disk Albums](#Multi_Disk)
-[Adding Music Videos](#music_videos)
-[Global Music Videos Folder](#global)
-[Music Folders with Embedded Metadata](#embedded_metadata)
-[Music Folders without Embedded Metadata](#no_embedded_metadata)
-[Lyrics: Naming & Organization](#adding_lyrics)
-[Adding Videos to Music Files](#music_videos)
+* [Recognized Tags](#tags) 
+* [Supplying Own Artwork](#personal_artwork)
+* [Multi Disk Albums](#Multi_Disk)
+* [Adding Music Videos](#music_videos)
+* [Global Music Videos Folder](#global)
+* [Music Folders with Embedded Metadata](#embedded_metadata)
+* [Music Folders without Embedded Metadata](#no_embedded_metadata)
+* [Lyrics: Naming & Organization](#adding_lyrics)
+* [Adding Videos to Music Files](#music_videos)
 
 <a name="tags"/> 
 
